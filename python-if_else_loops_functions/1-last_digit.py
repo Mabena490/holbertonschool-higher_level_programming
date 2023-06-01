@@ -15,4 +15,3 @@ than 5".format(number, ld))
 and not 0".format(number, ld))
             else:
                         print("Last digit of {:d} is {:d} and is 0".format(number, ld))
-                        
