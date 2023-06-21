@@ -1,13 +1,9 @@
 #!/usr/bin/python3
+# 0-lookup.py
+# Brennan D Baraban <375@holbertonschool.com>
+"""Defines an object attribute lookup function."""
 
 
 def lookup(obj):
-    """
-    lookup - returns list of avail attributes and methods of an obj
-
-    Args:
-    @obj: object to extract
-
-    Return: list of avail attributes and methods of an object
-    """
-    return(list(dir(obj)))
+    """Return a list of an object's available attributes."""
+    return (dir(obj))
