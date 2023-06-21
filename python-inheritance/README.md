@@ -1,17 +1,8 @@
 # Python - Inheritance
 
-In this project, I learned about Python class inheritance. I learned about the
-differences between super- and sub-classes while practicing inheritance,
-definining classes with multiple base classes, and overiding inherited methods
-and attributes.
-
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Includes both Holberton-provided ones
-as well as the following two independently-developed:
-    * [1-my_list.txt](./1-my_list.txt)
-    * [7-base_geometry.txt](./7-base_geometry.txt)
-
+* [tests](./tests): Folder of test files. 
 ## Function Prototypes :floppy_disk:
 
 Prototypes for functions written in this project:
